@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react,react-native,tailwindCss,c++**
 
-- 📫 How to reach me **naseerahmad786@gmail.com**
+- 📫 How to reach me **naseer190100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
