@@ -8,7 +8,7 @@
 
 - 🌱  Currently learning **Redux,Redux-tool-kit,Mangodb,Express,Nodejs**
 
-- 💬 Ask me about **React-JS,React-native,TailwindCss,c++,fireBase**
+- 💬 Ask me about **React-JS,React-native,TailwindCss,c++,FireBase**
 
 - 📫 How to reach me **naseer190100@gmail.com**
 
